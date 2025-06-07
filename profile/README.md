@@ -6,7 +6,7 @@
 
 ---
 
-<p align="center">The Ncturnal website is hosted using Github Pages.</p>
+<p align="center">Ncturnal's websites are hosted using Github Pages.</p>
 <p align="center">
 https://ncturnal.com &bull;
 https://gaming.ncturnal.com &bull;
