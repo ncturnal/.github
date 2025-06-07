@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ncturnal/ncturnal.com/refs/heads/main/img/logo/PNG/ncturnal_banner_50.png">
+<img src="https://github.com/ncturnal/brand/blob/main/banners/text-light-64px.png?raw=true">
 </p>
 
 ---
